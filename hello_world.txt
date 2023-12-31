@@ -2,3 +2,40 @@ Hello world!!!!.....
 second changes.....!!!
 3rd changes in the file and other changes/2nd chnage in 3rd line........!!!
 4th line is added...!!!!!
+git inti --to intialise git repo
+git status ->statusof the file and folder
+git add <file> adds the file to staging area
+it is a temporary area where you stage the files for commit.usually yoy will stage the fileswhich you are confident about the chnages
+
+git commit -m "meg" ==> commits into local repo
+git push origin master ==> pushes the commit into central repo
+
+.gitignore  ---> contains the files which can be ignore by git
+
+git config ---> global user.name "username"  --> setsthe user name for the first time
+
+git config --> global user.email "email id"
+
+git log ==> gives you the history of commit,
+
+They will install the bitbucket into thir server.admin will manage this///
+
+
+===========Branching========
+
+ Creating Branching
+
+git checkout -b <new branch> <source brach>
+
+which brach inu
+
+git brach
+
+git checkout -b feature1.1 masker
+
+=====merging code master========
+
+git
+
+
+
